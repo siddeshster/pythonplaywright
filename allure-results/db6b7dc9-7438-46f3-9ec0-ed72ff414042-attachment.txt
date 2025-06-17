@@ -1,0 +1,2 @@
+[32mINFO    [0m login_page:login_page.py:9 Navigating to login page
+[32mINFO    [0m login_page:login_page.py:13 Attempting login with: Admin

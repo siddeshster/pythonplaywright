@@ -1,0 +1,2 @@
+2025-06-17 15:24:57,849 | INFO | login_page | Navigating to login page
+2025-06-17 15:25:00,665 | INFO | login_page | Attempting login with: Admin

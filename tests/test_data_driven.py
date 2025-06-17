@@ -4,7 +4,7 @@ from utils.excel_reader import read_test_cases
 from pages.login_page import LoginPage
 from pages.dashboard_page import DashboardPage
 from pages.pim_page import PIMPage
-from pages.leave_page import LeavePage
+from pages.LeavePage import LeavePage
 from utils.logger import get_logger
 logger = get_logger("test_data_driven")
 

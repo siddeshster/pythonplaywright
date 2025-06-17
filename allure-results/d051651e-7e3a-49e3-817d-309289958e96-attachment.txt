@@ -1,0 +1,2 @@
+2025-06-17 15:24:51,221 | INFO | login_page | Navigating to login page
+2025-06-17 15:24:54,059 | INFO | login_page | Attempting login with: wrong
